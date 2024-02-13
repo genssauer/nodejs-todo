@@ -30,8 +30,4 @@ async function run() {
   }
 }
 
-run()
-
-function wait(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms))
-}
+run();
