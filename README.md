@@ -1,4 +1,4 @@
-# Aplicação Node.js com Fastify, Redis, Prisma e WebSocket
+# Aplicação Node.js 
 
 ## Instalação
 
